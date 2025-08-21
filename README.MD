@@ -7,8 +7,8 @@ Users can view recipes, search by filters, and see detailed recipe information i
 ---
 
 ## Live urls
-[Backend](https://recipes-assement.onrender.com)
-[Frontend](https://recipes-assement.vercel.app/)
+- [Backend](https://recipes-assement.onrender.com)
+- [Frontend](https://recipes-assement.vercel.app/)
 
 ---------------
 ## Features
