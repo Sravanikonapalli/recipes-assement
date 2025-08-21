@@ -14,7 +14,7 @@ const RecipeTable = () => {
   useEffect(() => {
     const fetchRecipes = async () => {
       try {
-        let query = `http://localhost:5000/api/recipes?page=${page}&limit=${limit}`;
+        let query = `https://recipes-assement.onrender.com/api/recipes?page=${page}&limit=${limit}`;
         if (searchTerm) query += `&search=${encodeURIComponent(searchTerm)}`;
 
         const res = await axios.get(query);

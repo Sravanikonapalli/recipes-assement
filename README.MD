@@ -7,8 +7,8 @@ Users can view recipes, search by filters, and see detailed recipe information i
 ---
 
 ## Live urls
-(Backend)[]
-(Frontend)[]
+[Backend](https://recipes-assement.onrender.com)
+[Frontend]()
 
 ---------------
 ## Features
@@ -67,6 +67,9 @@ project/
 ---
 
 ## Backend Setup (SQLite)
+
+git clone https://github.com/Sravanikonapalli/recipes-assement.git
+reciipesassessment
 
 1. **Navigate to backend folder**
     ```bash
